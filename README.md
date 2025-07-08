@@ -9,3 +9,9 @@
 ---
 
 
+2. Color Picker
+
+![Color Picker](./media/2.png)
+
+
+---
